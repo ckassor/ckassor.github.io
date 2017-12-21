@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Syllabus"
-date: 2016-12-01 15:35:00
-description: This is the schedule for the course. Click on any week for details on readings and assignments.
+date: 2017-12-31 15:35:00
+description: The syllabus and all course policies are here.
 img:  # Add image post (optional)
 ---
 # RLST 100 Course Syllabus
@@ -19,11 +19,11 @@ This course is _not_ a survey of world religions, although you will gain some in
 - This course will also prepare students for upper-level work in religious studies courses, and it will help students learn how to develop and present coherent arguments through writing and speech.
 
 **Required Readings:**
-- All readings will be posted as PDFs in this webpage.
-- You are required to bring the assigned reading with you to every class meeting. (It doesn’t matter to me whether you print out your readings or save them electronically, as long as you bring them to class.)
+- All readings will be linked from within this site. To view PDFs, you'll need a secret password from Connie. (Because copyright laws are a thing.)
+- You are required to bring the assigned reading with you to every class meeting. It doesn’t matter to me whether you print out your readings or save them electronically, as long as you bring them to class.
 
 **Technology Policy:**
-This course relies on technology. With this in mind, laptops, tablets, and phones are welcome (and even encouraged) in class. The only caveat is that you use them only for class-related activities. In other words, you are welcome to use these devices to refer to class readings, type notes, or post relevant questions or comments on the readings. You should not, however, use these tools to read your email, check Facebook, watch cat videos, etc. Any misuse of technology by one student may result in the banning of electronics in class for all students, which would be pretty sad for everybody. So try to be cool about this, ok?
+This course relies on technology. With this in mind, laptops, tablets, and phones are welcome (and even encouraged) in class. The only caveat is that you use them only for class-related activities. In other words, you are welcome to use these devices to refer to class readings, type notes, or sharem relevant questions or comments on the readings. You should not, however, use these tools to read your email, check Facebook, watch cat videos, etc. Any misuse of technology by one student may result in the banning of electronics in class for all students, which would be pretty sad for everybody. So try to be cool about this, ok?
 
 Sometimes when you’re working with computers, things can go wrong. Computers crash, files become corrupt, and servers go down. These are normal aspects of working with technology, and will not be acceptable excuses for late work or missed assignments. Please be sure to regularly back up your work and complete your assignments well enough in advance that you can avoid these problems.
 
@@ -35,23 +35,26 @@ I am happy to grant a two-day (48-hour) extension for assignments, provided that
 
 Please note that this policy does not extend to in-class presentations, nor will it apply to your in-class midterm or take-home final exam. If you have any questions about this policy, please do not hesitate to ask in class, or discuss it with me privately.
 
-At this point, I’d like to try a little experiment to see how many of you have made it this far into the syllabus. Technically, this is your first assignment, and you will get credit for this! Perform a Google image search for Milli Vanilli, the German R&B duo from the late 80's. Email me your favorite photo from the results. (Bonus points if you can name their hit single and tell me why they lost their Grammy Award.)
+At this point, I’d like to try a little experiment to see how many of you have made it this far into the syllabus. This is your first assignment, and you will get credit for this! Perform a Google image search for Milli Vanilli, the German R&B duo from the late 80's/early 90's. Email me your favorite photo from the results. (Bonus points if you can name their hit single and tell me why they lost their Grammy Award.)
 
 
 **Course Requirements**
-- Art Museum Project (30%) 
+- Attendance
+Coming to class on time and prepared to discuss the day's material is required. I understand that things may come up that might prohibit you from attending an occasional class, such as games, performances, illness, etc. However, our class is a community, and the community suffers if its members don't contribute. With that in mind, missing more than three class meetings (excused or otherwise) will result in a deduction of your final letter grade for the course. Each class meeting missed beyond the first three will reduce your final grade. (E.g., If you're earning an A- and you miss four classes, your final grade will be a B+; if you miss five classes, your final grade will be a B, and so on.)
+
+- Engagement (20%)
+At least one hour before each class meeting that we have new reading, everyone will be expected to post a total of three comments, questions, or interesting quotes based on the day's reading. We have 20 days of new readings over the course of the term, so each day will be an opportunity to earn 1% toward your final grade. Additionally, you may earn some _extra credit_ by constructively engaging with your classmates in the comments. "Constructive engagement" means replying to a question or contributing to a discussion in some way. Simply writing, "That's a good question!" does _not_ constitute constructive engagement.
+
+- Art Museum Project (20%) 
 In the first few weeks of the term, we will spend some time investigating religious art. More information about this project will be provided in class, but a basic breakdown of the assignment involves the following activities:
-•	Selection and short write-up of three images (10%), due Friday of Week 2 (April 7). Students will write 1-2 paragraphs on each image that they have selected, and share them with classmates in class. Write-ups will be submitted to the class via a special Slack channel.
-•	5-page paper on one image (20%), due Friday of Week 4 (April 21). Students will be assigned an image and will expand their original paragraphs into a longer essay. Papers will be submitted to Connie as a direct message in Slack.
+•	Selection and short write-up of three images (5%), due via email by the start of class on Friday of Week 2 (January 12). Students will write 1-2 paragraphs on each image that they have selected, and email them to Connie.
+•	5-minute presentation on one image with a partner (15%), due Friday of Week 4 (January 26). Students will be assigned an image and a partner, and will expand their original paragraphs into a longer presentation.
 
-- Mid-term Exam (20%)
-As a class, we will create questions for the mid-term exam on Monday of Week 6 (May 1), and the exam will occur in class on Wednesday of Week 6 (May 3).
+- In-class Midterm Exam (20%)
+An in-class exam covering the material from the first half of the term, Wednesday of week 6 (February 7)
 
-- Group Presentation (15%)
-At the end of week 8, students will give group presentations based on the texts that we have covered so far. 
+- Group Presentation (20%)
+During Week 9 (February 28), students will give group presentations based on the topics that we have covered so far. I know that everyone is busy and it's sometimes difficult to meet outside of class, so there will be some time in class during week 8 to work with your groups.
 
 - Final take-home exam (20%)
-Connie has to leave town for a conference during Week 10, so we will not meet during the last week of class. (Wow, aren’t you lucky!?) Instead, we will create questions for the exam together on Slack. A final take-home exam will be distributed on the last day of class, and exams must be submitted (as a direct message to Connie via Slack) no later than 2:00 on Wednesday, June 7.
-
-- Participation (15%)
-Students are expected to come to class with questions, comments, or other insights about the day’s assigned reading. Questions or comments can be posted on Slack or asked in class, but every student is expected to contribute in some way to every class meeting. Missing class or failing to participate in more than a couple of class meetings will result in a deduction of your participation grade. If you tend to be on the quieter side, or if you are worried about having time to state your comment or question in class, you are encouraged to participate via Slack! 
+The exam will be distributed at the end of the last class meeting (March 9), and is due via email no later than March 14 by 5:30pm.

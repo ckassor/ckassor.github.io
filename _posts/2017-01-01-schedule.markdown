@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Schedule"
-date: 2017-12-01 15:35:00
+title: "Schedule at a Glance"
+date: 2015-12-01 15:35:00
 description: This is the schedule for the course. Click on any week for details on readings and assignments.
 img:  # Add image post (optional)
 ---
