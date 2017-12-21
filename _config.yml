@@ -1,0 +1,28 @@
+title: Intro to Religious Studies, Winter 2018
+description: > # this means to ignore newlines until "baseurl:"
+  This is the course webpage for Intro to Religious Studies at Lawrence University
+permalink: ':title/'
+baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+url: "http://rlst100.party" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Religious Studies @ Lawrence University
+author-img: 
+facebook: RLSTatLU
+email: constance.e.kassor@lawrence.edu
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins_dir:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
