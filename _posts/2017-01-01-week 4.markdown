@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Week 4"
 date: 2017-08-01 15:35:00
-description: Week 4
+description: Week 4: Rethinking relationships to religious texts
 img: temple.jpg
 ---
 
