@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Week 5"
+date: 2017-07-01 15:35:00
+description: Week 5
+img: hanuman.jpg
+---
+
+**Monday, January 29**
+- [Ramanujan, "Three Hundred _Ramayanas_: Five Examples and Three Thoughts on Translation"](https://www.dropbox.com/s/g16r1zcgy2hutyi/Ramanujan_300Ramayanas.pdf?dl=0)
+
+**Wednesday, January 31**
+- [Flueckiger, "Literacy and the Changing Concept of Text: Women's Ramayana _Mandali_ in Central India"](https://www.dropbox.com/s/5p9sdzqjyhew8qq/Flueckiger_WomensRamayana.pdf?dl=0)
+
+**Friday, February 2**
+- [The Ramayana (summary)](http://home.wlu.edu/~lubint/texts/Ramayana.pdf)
+- [Valmiki's Ramayana](https://www.gutenberg.org/files/24869/24869-pdf.pdf)
+	- Note: You do not have to read this, but please look at it, to get a sense of how massive this text is!
+- [Chopra, _Ramayan Reloaded_](https://app.box.com/s/uu1nsp2onnk0c8kxh00pihpshp6uk7fi)

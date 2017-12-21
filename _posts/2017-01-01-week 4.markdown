@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Week 4"
+date: 2017-08-01 15:35:00
+description: Week 4
+img: temple.jpg
+---
+
+**Monday, January 22**
+- [Jutla, "The Evolution of the Golden Temple of Amritsar into a Major Sikh Pilgrimage Center"](http://www.aimspress.com/article/10.3934/geosci.2016.3.259/pdf)
+
+**Wednesday, January 24**
+- [McLeod, "Sikh Hymns to the Divine Name," and "The Order for Khalsa Initiation"](https://www.dropbox.com/s/vkxpmcikubnb09f/McLeod_SikhTexts.pdf?dl=0)
+
+**Friday, January 26**
+- No reading (image presentations in class)

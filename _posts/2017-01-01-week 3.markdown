@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Week 3"
+date: 2017-09-01 15:35:00
+description: Week 3
+img: mlk.jpg
+---
+
+**Monday, January 15**
+_No class_
+
+**Wednesday, January 17**
+- [Schopen, "Archaeology and Protestant Presuppositions in the Study of Indian Buddhism"](http://www.jstor.org.proxy.lawrence.edu:2048/stable/pdf/1062872.pdf)
+
+**Friday, January 19**
+- No new reading (Visit to Wriston in class)

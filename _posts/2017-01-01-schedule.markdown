@@ -1,0 +1,115 @@
+---
+layout: post
+title: "Schedule"
+date: 2017-12-01 15:35:00
+description: This is the schedule for the course. Click on any week for details on readings and assignments.
+img:  # Add image post (optional)
+---
+# RLST 100 - Schedule of Readings and Assignments
+ 
+## [Week 1](../week-1/)
+**Wednesday, January 3**
+- [Henderson, "Open Letter to the Kansas School Board"](https://www.colorado.edu/physics/phys3000/phys3000_sp16/handouts/25_SpaghettiMonster.pdf)
+
+**Friday, January 5**
+- [Sullivan, "Neutralizing Religion, or What is the Opposite of 'Faith-Based'?"](http://www.jstor.org.proxy.lawrence.edu:2048/stable/pdf/3176453.pdf)
+- Read the [syllabus](../syllabus). Seriously. Read the whole thing all the way through. Carefully.
+
+## [Week 2](../week-2)
+**Monday, January 8**
+- [Gunkel and Westermann, _Genesis_, Introductions](https://www.dropbox.com/s/fncucgormhwgxm4/Gunkel%20and%20Westerman%20_%20Genesis%20Intros.pdf?dl=0)
+
+**Wednesday, January 10**
+- [Westermann, _Genesis_, chapters 1-4](https://www.dropbox.com/s/hfsa9jilaorwyf7/Genesis_Ch1thru4.pdf?dl=0)
+- [Lacey, _Word on the Street_, chapters 1-3](https://www.dropbox.com/s/pbt5kirbrpjh02c/StreetBible_Gen13.pdf?dl=0)
+
+**Friday, January 12**
+- [Crumb, _Illustrated Genesis_, Chapters 1-4](https://www.dropbox.com/s/vv57d40l2wspnje/Genesis%20Illustrated%20Ch%201thru4.pdf?dl=0)
+
+## [Week 3](../week-3)
+**Monday, January 15**
+_No class_
+
+**Wednesday, January 17**
+- [Schopen, "Archaeology and Protestant Presuppositions in the Study of Indian Buddhism"](http://www.jstor.org.proxy.lawrence.edu:2048/stable/pdf/1062872.pdf)
+
+**Friday, January 19**
+- No new reading (Visit to Wriston in class)
+
+## [Week 4](../week-4)
+**Monday, January 22**
+- [Jutla, "The Evolution of the Golden Temple of Amritsar into a Major Sikh Pilgrimage Center"](http://www.aimspress.com/article/10.3934/geosci.2016.3.259/pdf)
+
+**Wednesday, January 24**
+- [McLeod, "Sikh Hymns to the Divine Name," and "The Order for Khalsa Initiation"](https://www.dropbox.com/s/vkxpmcikubnb09f/McLeod_SikhTexts.pdf?dl=0)
+
+**Friday, January 26**
+- No reading (image presentations in class)
+
+## [Week 5](../week-5)
+**Monday, January 29**
+- [Ramanujan, "Three Hundred _Ramayanas_: Five Examples and Three Thoughts on Translation"](https://www.dropbox.com/s/g16r1zcgy2hutyi/Ramanujan_300Ramayanas.pdf?dl=0)
+
+**Wednesday, January 31**
+- [Flueckiger, "Literacy and the Changing Concept of Text: Women's Ramayana _Mandali_ in Central India"](https://www.dropbox.com/s/5p9sdzqjyhew8qq/Flueckiger_WomensRamayana.pdf?dl=0)
+
+**Friday, February 2**
+- [The Ramayana (summary)](http://home.wlu.edu/~lubint/texts/Ramayana.pdf)
+- [Valmiki's Ramayana](https://www.gutenberg.org/files/24869/24869-pdf.pdf)
+	- Note: You do not have to read this, but please look at it, to get a sense of how massive this text is!
+- [Chopra, _Ramayan Reloaded_](https://app.box.com/s/uu1nsp2onnk0c8kxh00pihpshp6uk7fi)
+
+## [Week 6](../week-6)
+**Monday, February 5**
+- [Smith, "Religion, Religions, Religious"](https://www.dropbox.com/s/o65h8lglzezvkjs/Smith_ReligionReligionsReligious.pdf?dl=0)
+
+**Wednesday, February 7**
+*Midterm Exam*
+
+**Friday, February 9**
+_No class_
+
+## [Week 7](../week-7)
+**Monday, February 12**
+- [Khyentse, "What Makes You a Buddhist?"](https://www.lionsroar.com/what-makes-you-a-buddhist/)
+
+**Wednesday, February 14**
+- [Dowman, "How Drukpa Kunley Bound the Demons of Bhutan"](https://www.dropbox.com/s/blc454t2pu3776b/Dowman_DrukpaKunley.pdf?dl=0)
+
+**Friday, February 16**
+- Film _TBD_
+	- We will arrange a screening on Wed or Thu evening, and if you can't make it, the film will be on reserve in the library.
+
+## [Week 8](../week-8)
+**Monday, February 19**
+- [Satlow, "Defining Judaism: Accounting for 'Religions' in the Study of Religion"](http://web.a.ebscohost.com.proxy.lawrence.edu:2048/ehost/pdfviewer/pdfviewer?vid=1&sid=e1bdb804-eb72-4c72-93f2-53edec7c346f%40sessionmgr4007)
+
+**Wednesday, February 21**
+- [Jospe, "Covenant and Chosenness"](https://www.myjewishlearning.com/article/covenant-and-chosenness/)
+- [Chabon, "Chosen, but not Special"](http://www.nytimes.com/2010/06/06/opinion/06chabon.html?sq=chabon&st=cse&scp=2&pagewanted=all)
+- [Gitlin and Leibovitz, "The Centrality of Jewish Chosenness"](http://www.tabletmag.com/scroll/35579/the-centrality-of-jewish-chosenness)
+
+**Friday, February 23**
+- No new reading (time to work on group presentations)
+
+## [Week 9](../week-9)
+**Monday, February 26**
+- [Streett, "Snake Handling and Mark 16:18: Primitive Christianity or Indigenous American Religion?"](https://www.dropbox.com/s/mvazccqgu0qm3ws/Streett_SnakeHandling.pdf?dl=0)
+
+**Wednesday, February 28**
+- No reading (group presentations in class)
+
+**Friday, March 2**
+- [Metraux, "Religious Terrorism in Japan: The Fatal Appeal of Aum Shinrikyo"](http://www.jstor.org.proxy.lawrence.edu:2048/stable/pdf/2645835.pdf)
+- [Marshall, "Why is the Aum Cult Thriving?"](https://www.theguardian.com/theguardian/1999/jul/15/features11.g2)
+
+## [Week 10](../week-10)
+**Monday, March 5**
+- [Jain, "Is Downward Dog the Path to Hell?"](http://religiondispatches.org/is-downward-dog-the-path-to-hell/) and ["Claiming Yoga for India](http://religiondispatches.org/claiming-yoga-for-india/)
+
+**Wednesday, March 7**
+- [King, "Seeing Spirituality in Chimpanzees"](https://www.theatlantic.com/science/archive/2016/03/chimpanzee-spirituality/475731/)
+
+**Friday, March 9**
+- No new reading, but come to class with your notes from the term. We'll spend time reviewing what we've covered this term, in preparation for the final exam.
+

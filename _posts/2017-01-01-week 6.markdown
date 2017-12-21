@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Week 6"
+date: 2017-06-01 15:35:00
+description: Week 6
+img: ghost.jpg
+---
+
+**Monday, February 5**
+- [Smith, "Religion, Religions, Religious"](https://www.dropbox.com/s/o65h8lglzezvkjs/Smith_ReligionReligionsReligious.pdf?dl=0)
+
+**Wednesday, February 7**
+*Midterm Exam*
+
+**Friday, February 9**
+_No class_
