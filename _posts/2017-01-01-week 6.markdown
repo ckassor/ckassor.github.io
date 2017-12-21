@@ -1,9 +1,9 @@
 ---
 layout: post
 comments: true
-title: "Week 6: What is "religion," anyway?"
+title: "Week 6: What is religion, anyway?"
 date: 2017-06-01 15:35:00
-description: Week 6
+description: Week 6 - What is religion, anyway?
 img: ghost.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Week 2: Scripture"
 date: 2017-10-01 15:35:00
-description: Week 2
+description: Week 2 - Scripture
 img: creation.jpg
 ---
 

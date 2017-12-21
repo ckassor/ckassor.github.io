@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Week 3: What is a religious text?"
 date: 2017-09-01 15:35:00
-description: Week 3
+description: Week 3 - What is a religious text?
 img: mlk.jpg
 ---
 

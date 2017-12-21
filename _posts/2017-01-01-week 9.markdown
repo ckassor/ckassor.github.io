@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Week 9: Later developments in religious traditions"
 date: 2017-03-01 15:35:00
-description: Week 9
+description: Week 9 - Later developments in religious traditions
 img: snakes.jpg
 ---
 
