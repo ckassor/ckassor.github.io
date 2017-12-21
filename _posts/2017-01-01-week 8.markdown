@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Week 8"
 date: 2017-04-01 15:35:00
 description: Week 8

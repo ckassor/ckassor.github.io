@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: false
 title: "Syllabus"
 date: 2017-12-01 15:35:00
 description: The syllabus and all course policies are here.

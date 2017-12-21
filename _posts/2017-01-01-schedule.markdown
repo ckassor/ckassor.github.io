@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: false
 title: "Schedule at a Glance"
 date: 2015-12-01 15:35:00
 description: This is the schedule for the course. Click on any week for details on readings and assignments.
