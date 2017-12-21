@@ -7,7 +7,7 @@ url: "http://rlst100.party" # the base hostname & protocol for your site, e.g. h
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Religious Studies @ Lawrence University
+author: Intro to Religious Studies @ Lawrence University, Winter 2018
 author-img: mainhall.jpg
 facebook: RLSTatLU
 email: constance.e.kassor@lawrence.edu
@@ -22,7 +22,7 @@ plugins_dir:
   - jekyll-paginate
   - jemoji
 
-paginate: 8
+paginate: 12
 paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
