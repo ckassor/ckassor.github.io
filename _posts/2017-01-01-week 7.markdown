@@ -1,9 +1,9 @@
 ---
 layout: post
 comments: true
-title: "Week 7"
+title: "Week 7: Religious practices"
 date: 2017-05-01 15:35:00
-description: Week 7: Religious practices
+description: Week 7
 img: kunley.jpg
 ---
 

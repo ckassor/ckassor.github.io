@@ -1,9 +1,9 @@
 ---
 layout: post
 comments: true
-title: "Week 1"
+title: "Week 1: Why should we care about religion?"
 date: 2017-11-01 15:35:00
-description: Week 1: Why should we care about religion?
+description: Week 1
 img: noodly.jpg
 ---
 

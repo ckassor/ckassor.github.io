@@ -1,9 +1,9 @@
 ---
 layout: post
 comments: true
-title: "Week 8"
+title: "Week 8: Religion and/as culture"
 date: 2017-04-01 15:35:00
-description: Week 8: Religion and/as culture
+description: Week 8
 img: westernwall.jpg
 ---
 
