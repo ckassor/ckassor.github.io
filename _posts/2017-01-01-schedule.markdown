@@ -7,7 +7,7 @@ description: This is the schedule for the course. Click on any week for details 
 img:  # Add image post (optional)
 ---
 # RLST 100 - Schedule of Readings and Assignments
- 
+
 ## [Week 1](../week-1/)
 **Wednesday, January 3**
 - [Henderson, "Open Letter to the Kansas School Board"](https://www.colorado.edu/physics/phys3000/phys3000_sp16/handouts/25_SpaghettiMonster.pdf)
@@ -114,3 +114,4 @@ _No class_
 **Friday, March 9**
 - No new reading, but come to class with your notes from the term. We'll spend time reviewing what we've covered this term, in preparation for the final exam.
 
+<iframe src="https://calendar.google.com/calendar/embed?title=RLST%20100%20Schedule&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=lg7m4qmc2g0bavajf4v724o32c%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FChicago" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
