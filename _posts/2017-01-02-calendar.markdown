@@ -1,11 +1,21 @@
 ---
 layout: post
 comments: false
-title: "Schedule at a Glance"
+title: "Important Dates & Deadlines"
 date: 2017-12-15 15:35:00
-description: This is the schedule for the course. Click on any week for details on readings and assignments.
+description: These are important dates to keep in mind this term.
 img:  # Add image post (optional)
 ---
-# RLST 100 -- Schedule at a glance
+# RLST 100 -- Important Dates & Deadlines At A Glance
 
-<iframe src="https://calendar.google.com/calendar/embed?title=RLST%20100%20Schedule&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=lg7m4qmc2g0bavajf4v724o32c%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FChicago" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<b>Friday, September 21:</b> 3-6 paragraphs on images in the ArtStor collection, due via email before the start of class
+
+<b>Friday, October 5:</b> Image presentations in class
+
+<b>Wednesday, October 17:</b> In-class midterm exam
+
+<b>Thursday, October 25:</b> Film screening at 7:00pm
+
+<b>Wednesday, November 7:</b> Group presentations in class
+
+<b>Tuesday, November 20:</b> Final exam due no later than noon
