@@ -1,4 +1,4 @@
-title: Intro to Religious Studies, Winter 2018
+title: Intro to Religious Studies, Fall 2018
 description: > # this means to ignore newlines until "baseurl:"
   This is the course webpage for Intro to Religious Studies at Lawrence University
 permalink: ':title/'
@@ -7,9 +7,9 @@ url: "http://rlst100.party" # the base hostname & protocol for your site, e.g. h
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Intro to Religious Studies, Winter 2018
+author: Intro to Religious Studies, Fall 2018
 author-img: mainhall.jpg
-about-author: This is the webpage for Connie Kassor's RLST 100 course (Winter '18). Here is where you'll find readings, documents, and all information relevant to the course. If you want to find Connie outside of class, she's in Main Hall 411, and her office hours are Mondays 11am-Noon.
+about-author: This is the webpage for Professor Kassor's RLST 100 course (Fall '18). Here is where you'll find readings, documents, and all information relevant to the course. If you want to find Prof. Kassor outside of class, she's in Main Hall 411, and her office hours are Mondays 3:30-4:30pm, and by appointment.
 email: constance.e.kassor@lawrence.edu
 
 # Tracker
