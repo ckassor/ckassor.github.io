@@ -4,11 +4,11 @@ comments: true
 title: "Week 3: What is a religious text?"
 date: 2017-09-01 15:35:00
 description: Week 3 - What is a religious text?
-img: mlk.jpg
+img: indiana.jpg
 ---
 
 **Monday, September 24**
-_No class_
+- [Smith, "Religion, Religions, Religious"](https://www.dropbox.com/s/o65h8lglzezvkjs/Smith_ReligionReligionsReligious.pdf?dl=0)
 
 **Wednesday, September 26**
 - [Schopen, "Archaeology and Protestant Presuppositions in the Study of Indian Buddhism"](http://www.jstor.org.proxy.lawrence.edu:2048/stable/pdf/1062872.pdf)
