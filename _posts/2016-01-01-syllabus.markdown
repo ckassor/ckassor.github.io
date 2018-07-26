@@ -4,7 +4,7 @@ comments: false
 title: "Syllabus"
 date: 2017-12-01 15:35:00
 description: The syllabus and all course policies are here.
-img:  # Add image post (optional)
+img:  syllabus.png
 ---
 # RLST 100 Course Policies
 
