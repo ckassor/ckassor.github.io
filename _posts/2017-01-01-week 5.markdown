@@ -15,5 +15,5 @@ img: hanuman.jpg
 
 **Friday, October 12**
 - [The Ramayana (summary)](http://home.wlu.edu/~lubint/texts/Ramayana.pdf)
-- [Valmiki's Ramayana](https://www.gutenberg.org/files/24869/24869-pdf.pdf)
+- [Valmiki's Ramayana](http://www.gutenberg.org/files/24869/24869-pdf.pdf?session_id=f744686664af3b842c7459f13aff917999edae46)
 	- Note: You do not have to read this, but please look at it, to get a sense of how massive this text is!
