@@ -8,7 +8,6 @@ img: westernwall.jpg
 ---
 
 
-=======
 **Monday, February 19**
 - [Satlow, "Defining Judaism: Accounting for 'Religions' in the Study of Religion"](http://www.jstor.org/stable/pdf/4139954.pdf?refreqid=excelsior%3Ac151940e6a5161f09026231587489d4f)
 
@@ -20,4 +19,4 @@ img: westernwall.jpg
 
 **Friday, November 2**
 - No new reading (time to work on group presentations)
-=======
+
