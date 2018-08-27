@@ -4,7 +4,7 @@ comments: true
 title: "Important Dates & Deadlines"
 date: 2017-12-15 15:35:00
 description: These are important dates to keep in mind this term.
-img:  dates.jpg
+img: 
 ---
 # RLST 100 -- Important Dates & Deadlines At A Glance
 
